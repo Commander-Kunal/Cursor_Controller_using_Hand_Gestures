@@ -21,6 +21,7 @@ The application uses the following key technologies:
 •	PyAutoGUI: To programmatically control the mouse cursor (move and click) on the screen.
 
 •	NumPy: For numerical operations and handling coordinates.
+
 The HandTracking.py module detects the hand and its landmarks. The main script, AICursorController.py, reads these landmarks, interprets the gestures, and uses pyautogui to move the cursor and simulate clicks.
 ________________________________________
 Gestures
@@ -28,6 +29,7 @@ Gestures
 •	Move Cursor: Raise your index finger and move it around. The cursor will follow your fingertip.
 
 •	Click: Bring your thumb and index finger close together to perform a click.
+
 (Note: These are the assumed default gestures. You can modify the source code in AICursorController.py to customize the gestures.)
 ________________________________________
 
@@ -38,19 +40,26 @@ You must have Python 3.x installed on your system.
 Installation
 
 1.	Clone the repository:
+
 Bash:
+
 git clone https://github.com/Commander-Kunal/Cursor_Controller_using_Hand_Gestures.git
 cd Cursor_Controller_using_Hand_Gestures
 
 2.	Install the required Python libraries:
+
 Bash:
+
 pip install opencv-python mediapipe pyautogui numpy
 ________________________________________
 Usage
 
 To run the application, simply execute the AICursorController.py script from your terminal:
+
 Bash:
+
 python AICursorController.py
+
 A window will open showing your webcam feed. Raise your hand to begin controlling the cursor.
 ________________________________________
 Contributing
