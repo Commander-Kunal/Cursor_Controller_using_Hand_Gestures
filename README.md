@@ -1,8 +1,9 @@
-Cursor Controller using Hand Gestures
+**Cursor Controller using Hand Gestures**
 
 A Computer Vision utility that allows you to control your computer's cursor in real-time using hand gestures. This project uses your webcam to track hand movements and translate them into desktop cursor actions, including movement and clicking.
 ________________________________________
-Features
+
+**Features**
 
 * **Real-time Cursor Control:** Move your mouse cursor by moving your hand.
 
@@ -10,7 +11,8 @@ Features
 
 * **Virtual Mouse:** A complete replacement for your physical mouse, controlled entirely by your hand.
 ________________________________________
-How it Works
+
+**How it Works**
 
 The application uses the following key technologies:
 
@@ -24,7 +26,8 @@ The application uses the following key technologies:
 
 The HandTracking.py module detects the hand and its landmarks. The main script, AICursorController.py, reads these landmarks, interprets the gestures, and uses pyautogui to move the cursor and simulate clicks.
 ________________________________________
-Gestures
+
+**Gestures**
 
 The application recognizes five distinct gestures to control your computer:
 
@@ -52,12 +55,12 @@ The application recognizes five distinct gestures to control your computer:
     * **Scroll Down:** Move your hand towards the bottom of the camera's view.
 ________________________________________
 
-Prerequisites
+**Prerequisites**
 
 You must have Python 3.x installed on your system.
 ________________________________________
 
-Installation
+**Installation**
 
 1.  **Clone the repository:**
     ```sh
@@ -71,7 +74,7 @@ Installation
     ```
 ________________________________________
 
-Usage
+**Usage**
 
 To run the application, simply execute the `AICursorController.py` script from your terminal:
 
@@ -81,7 +84,7 @@ python AICursorController.py
 A window will open showing your webcam feed. Raise your hand to begin controlling the cursor.
 ________________________________________
 
-Contributing
+**Contributing**
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
 
@@ -96,12 +99,12 @@ Contributions are welcome! If you have suggestions for improvements or new featu
  5. Open a Pull Request
 ________________________________________
 
-License
+**License**
 
 This project is open-source. See the LICENSE file for more information.
 ________________________________________
 
-About Author
+**About Author**
 
 * Kunal Gupta
 
