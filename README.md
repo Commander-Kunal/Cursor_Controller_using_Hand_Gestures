@@ -54,46 +54,28 @@ ________________________________________
 
 Prerequisites
 
-You must have Python 3.x installed on your system.
+* You must have Python 3.x installed on your system.
 
 Installation
 
-1.	Clone the repository:
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/Commander-Kunal/Cursor_Controller_using_Hand_Gestures.git](https://github.com/Commander-Kunal/Cursor_Controller_using_Hand_Gestures.git)
+    cd Cursor_Controller_using_Hand_Gestures
+    ```
 
-Bash:
+2.  **Install the required Python libraries:**
+    ```sh
+    pip install opencv-python mediapipe pyautogui numpy
+    ```
 
-git clone https://github.com/Commander-Kunal/Cursor_Controller_using_Hand_Gestures.git
-cd Cursor_Controller_using_Hand_Gestures
-
-2.	Install the required Python libraries:
-
-Bash:
-
-pip install opencv-python mediapipe pyautogui numpy
-________________________________________
 Usage
 
-To run the application, simply execute the AICursorController.py script from your terminal:
+To run the application, simply execute the `AICursorController.py` script from your terminal:
 
-Bash:
-
+```sh
 python AICursorController.py
-
-A window will open showing your webcam feed. Raise your hand to begin controlling the cursor.
-________________________________________
-Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
-
-1.	Fork the Project
-
-2.	Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-3.	Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-4.	Push to the Branch (git push origin feature/AmazingFeature)
-
-5.	Open a Pull Request
+```
 ________________________________________
 License
 
