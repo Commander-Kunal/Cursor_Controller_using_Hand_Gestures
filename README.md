@@ -4,23 +4,23 @@ A Computer Vision utility that allows you to control your computer's cursor in r
 ________________________________________
 Features
 
-•	Real-time Cursor Control: Move your mouse cursor by moving your hand.
+* **Real-time Cursor Control:** Move your mouse cursor by moving your hand.
 
-•	Gesture-based Clicking: Perform a click action using a simple hand gesture.
+* **Gesture-based Clicking:** Perform a click action using a simple hand gesture.
 
-•	Virtual Mouse: A complete replacement for your physical mouse, controlled entirely by your hand.
+* **Virtual Mouse:** A complete replacement for your physical mouse, controlled entirely by your hand.
 ________________________________________
 How it Works
 
 The application uses the following key technologies:
 
-•	OpenCV: To capture the video feed from your webcam.
+* **OpenCV:** To capture the video feed from your webcam.
 
-•	MediaPipe: For robust, real-time hand tracking to detect landmarks on the hand.
+* **MediaPipe:** For robust, real-time hand tracking to detect landmarks on the hand.
 
-•	PyAutoGUI: To programmatically control the mouse cursor (move and click) on the screen.
+* **PyAutoGUI:** To programmatically control the mouse cursor (move and click) on the screen.
 
-•	NumPy: For numerical operations and handling coordinates.
+* **NumPy:** For numerical operations and handling coordinates.
 
 The HandTracking.py module detects the hand and its landmarks. The main script, AICursorController.py, reads these landmarks, interprets the gestures, and uses pyautogui to move the cursor and simulate clicks.
 ________________________________________
@@ -85,15 +85,15 @@ Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
 
- 1. **Fork the Project**
+ 1. Fork the Project
 
- 2. **Create your Feature Branch (git checkout -b feature/AmazingFeature)**
+ 2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
 
- 3. **Commit your Changes (git commit -m 'Add some AmazingFeature')**
+ 3. Commit your Changes (git commit -m 'Add some AmazingFeature')
 
- 4. **Push to the Branch (git push origin feature/AmazingFeature)**
+ 4. Push to the Branch (git push origin feature/AmazingFeature)
 
- 5. **Open a Pull Request**
+ 5. Open a Pull Request
 ________________________________________
 
 License
