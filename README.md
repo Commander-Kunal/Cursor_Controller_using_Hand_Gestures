@@ -28,41 +28,41 @@ Gestures
 
 The application recognizes five distinct gestures to control your computer:
 
-1.	Move Cursor:
-   
-   •	Action: Raise your index finger only.
-   
-   •  Result: The mouse cursor will follow the movement of your index fingertip.
+•	Move Cursor:
 
-3.	Left Click:
+o	Action: Raise your index finger only.
 
-   •  Action: Raise your index and middle fingers. Bring the tips of these two fingers close together (distance < 40 pixels).
-   
-   •  Result: The system will perform a single left click.
+o	Result: The mouse cursor will follow the movement of your index fingertip.
 
-3.	Right Click:
+•	Left Click:
 
-   •	Action: Raise your index, middle, and ring fingers. Bring the tips of your middle and ring fingers close together (distance < 40 pixels).
-   
-   •	Result: The system will perform a single right click.
+o	Action: Raise your index and middle fingers. Bring the tips of these two fingers close together (distance < 40 pixels).
 
-4.	Drag and Drop:
+o	Result: The system will perform a single left click.
 
-   •	Action: Raise your thumb and index finger.
-   
-   •	Hold: Bring the tips of your thumb and index finger close together (distance < 40 pixels) to "press and hold" the left mouse button.
-   
-   •	Drag: Move your hand while keeping your fingers pinched.
-   
-   •  Drop: Separate your thumb and index finger (distance > 40 pixels) to "release" the button.
+•	Right Click:
 
-5.	Scrolling:
+o	Action: Raise your index, middle, and ring fingers. Bring the tips of your middle and ring fingers close together (distance < 40 pixels).
 
-   •	Action: Raise all four fingers (index, middle, ring, and pinky).
-   
-   •	Scroll Up: Move your hand towards the top of the camera's view.
-   
-   •	Scroll Down: Move your hand towards the bottom of the camera's view.
+o	Result: The system will perform a single right click.
+
+•	Drag and Drop:
+
+o	Action: Raise your thumb and index finger.
+
+o	Hold: Bring the tips of your thumb and index finger close together (distance < 40 pixels) to "press and hold" the left mouse button.
+
+o	Drag: Move your hand while keeping your fingers pinched.
+
+o	Drop: Separate your thumb and index finger (distance > 40 pixels) to "release" the button.
+
+•	Scrolling:
+
+o	Action: Raise all four fingers (index, middle, ring, and pinky).
+
+o	Scroll Up: Move your hand towards the top of the camera's view.
+
+o	Scroll Down: Move your hand towards the bottom of the camera's view.
 ________________________________________
 
 Prerequisites
