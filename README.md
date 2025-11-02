@@ -30,39 +30,39 @@ The application recognizes five distinct gestures to control your computer:
 
 •	Move Cursor:
 
- o	Action: Raise your index finger only.
+  o	Action: Raise your index finger only.
 
- o	Result: The mouse cursor will follow the movement of your index fingertip.
+  o	Result: The mouse cursor will follow the movement of your index fingertip.
 
 •	Left Click:
 
- o	Action: Raise your index and middle fingers. Bring the tips of these two fingers close together (distance < 40 pixels).
+  o	Action: Raise your index and middle fingers. Bring the tips of these two fingers close together (distance < 40 pixels).
 
- o	Result: The system will perform a single left click.
+  o	Result: The system will perform a single left click.
 
 •	Right Click:
 
- o	Action: Raise your index, middle, and ring fingers. Bring the tips of your middle and ring fingers close together (distance < 40 pixels).
+  o	Action: Raise your index, middle, and ring fingers. Bring the tips of your middle and ring fingers close together (distance < 40 pixels).
 
- o	Result: The system will perform a single right click.
+  o	Result: The system will perform a single right click.
 
 •	Drag and Drop:
 
- o	Action: Raise your thumb and index finger.
+  o	Action: Raise your thumb and index finger.
 
- o	Hold: Bring the tips of your thumb and index finger close together (distance < 40 pixels) to "press and hold" the left mouse button.
+  o	Hold: Bring the tips of your thumb and index finger close together (distance < 40 pixels) to "press and hold" the left mouse button.
 
- o	Drag: Move your hand while keeping your fingers pinched.
+  o	Drag: Move your hand while keeping your fingers pinched.
 
- o	Drop: Separate your thumb and index finger (distance > 40 pixels) to "release" the button.
+  o	Drop: Separate your thumb and index finger (distance > 40 pixels) to "release" the button.
 
 •	Scrolling:
 
- o	Action: Raise all four fingers (index, middle, ring, and pinky).
+  o	Action: Raise all four fingers (index, middle, ring, and pinky).
 
- o	Scroll Up: Move your hand towards the top of the camera's view.
+  o	Scroll Up: Move your hand towards the top of the camera's view.
 
- o	Scroll Down: Move your hand towards the bottom of the camera's view.
+  o	Scroll Down: Move your hand towards the bottom of the camera's view.
 ________________________________________
 
 Prerequisites
