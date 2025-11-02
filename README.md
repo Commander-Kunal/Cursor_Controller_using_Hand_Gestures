@@ -55,7 +55,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ________________________________________
 License
 
-This project is open-source. See the LICENSE file for more information. (You may want to add a LICENSE file, such as MIT, to your repository).
+This project is open-source. See the LICENSE file for more information.
 ________________________________________
 
 About Author
