@@ -78,7 +78,24 @@ To run the application, simply execute the `AICursorController.py` script from y
 ```sh
 python AICursorController.py
 ```
+A window will open showing your webcam feed. Raise your hand to begin controlling the cursor.
 ________________________________________
+
+Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
+
+ 1. **Fork the Project**
+
+ 2. **Create your Feature Branch (git checkout -b feature/AmazingFeature)**
+
+ 3. **Commit your Changes (git commit -m 'Add some AmazingFeature')**
+
+ 4. **Push to the Branch (git push origin feature/AmazingFeature)**
+
+ 5. **Open a Pull Request**
+________________________________________
+
 License
 
 This project is open-source. See the LICENSE file for more information.
@@ -86,10 +103,10 @@ ________________________________________
 
 About Author
 
-Kunal Gupta
+* Kunal Gupta
 
-MCA Data Science Student at University Institute of Computing (UIC), Chandigarh University, Mohali, Punjab – 140301
+* MCA Data Science Student at University Institute of Computing (UIC), Chandigarh University, Mohali, Punjab – 140301
 
-UID: 25MCD10013
+* UID: 25MCD10013
 
-Semester/Year: 1/1
+* Semester/Year: 1/1
