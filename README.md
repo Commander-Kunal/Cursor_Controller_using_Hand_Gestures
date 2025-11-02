@@ -54,7 +54,8 @@ ________________________________________
 
 Prerequisites
 
-* You must have Python 3.x installed on your system.
+You must have Python 3.x installed on your system.
+________________________________________
 
 Installation
 
@@ -68,6 +69,7 @@ Installation
     ```sh
     pip install opencv-python mediapipe pyautogui numpy
     ```
+________________________________________
 
 Usage
 
