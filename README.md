@@ -26,11 +26,43 @@ The HandTracking.py module detects the hand and its landmarks. The main script, 
 ________________________________________
 Gestures
 
-•	Move Cursor: Raise your index finger and move it around. The cursor will follow your fingertip.
+The application recognizes five distinct gestures to control your computer:
 
-•	Click: Bring your thumb and index finger close together to perform a click.
+1.	Move Cursor:
 
-(Note: These are the assumed default gestures. You can modify the source code in AICursorController.py to customize the gestures.)
+  •	Action: Raise your index finger only.
+
+  • Result: The mouse cursor will follow the movement of your index fingertip.
+
+2.	Left Click:
+
+  •	Action: Raise your index and middle fingers. Bring the tips of these two fingers close together (distance < 40 pixels).
+
+  •	Result: The system will perform a single left click.
+
+3.	Right Click:
+
+  •	Action: Raise your index, middle, and ring fingers. Bring the tips of your middle and ring fingers close together (distance < 40 pixels).
+
+  •	Result: The system will perform a single right click.
+
+4.	Drag and Drop:
+
+  •	Action: Raise your thumb and index finger.
+
+  •	Hold: Bring the tips of your thumb and index finger close together (distance < 40 pixels) to "press and hold" the left mouse button.
+
+  •	Drag: Move your hand while keeping your fingers pinched.
+
+  • Drop: Separate your thumb and index finger (distance > 40 pixels) to "release" the button.
+
+5.	Scrolling:
+
+  •	Action: Raise all four fingers (index, middle, ring, and pinky).
+
+  •	Scroll Up: Move your hand towards the top of the camera's view.
+
+  •	Scroll Down: Move your hand towards the bottom of the camera's view.
 ________________________________________
 
 Prerequisites
