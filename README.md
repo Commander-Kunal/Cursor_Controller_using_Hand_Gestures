@@ -103,7 +103,7 @@ ________________________________________
 
 This project is licensed under the **MIT License**.
 
-See the `LICENSE.md` file for more details. (You will need to create a `LICENSE.md` file in your repository, for example, by choosing the MIT License template when on GitHub).
+See the `LICENSE.md` file for more details.
 ________________________________________
 
 **About Author**
