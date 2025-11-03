@@ -101,12 +101,16 @@ ________________________________________
 
 **License**
 
-This project is open-source. See the LICENSE file for more information.
+This project is open-source. See the LICENSE.md file for more information.
 ________________________________________
 
 **About Author**
 
-* Kunal Gupta
+This project was created by **[Kunal Gupta]**.
+
+* **GitHub:** `github.com/Commander-Kunal`
+
+* **LinkedIn:** `linkedin.com/in/YourProfile`
 
 * MCA Data Science Student at University Institute of Computing (UIC), Chandigarh University, Mohali, Punjab – 140301
 
